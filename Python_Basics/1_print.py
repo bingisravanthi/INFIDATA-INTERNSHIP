@@ -1,0 +1,10 @@
+print("hello python")
+print('hii sravanthi')
+print("python","java","web")
+print("hello python", end=" ")
+print("programming")
+print("java","web","python",sep="/")
+print("java","web","python",sep="$")
+print("hello","hi",end=" ",sep="/")
+print("welcome to nandyal")
+
