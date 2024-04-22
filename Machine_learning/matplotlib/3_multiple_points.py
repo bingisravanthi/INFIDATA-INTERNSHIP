@@ -6,3 +6,5 @@ y=np.array([3,8,7,9])
 
 plt.plot(x,y,linewidth=5,color='green')
 plt.show()
+
+
