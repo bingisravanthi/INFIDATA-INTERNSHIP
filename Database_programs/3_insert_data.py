@@ -29,3 +29,5 @@ except Exception as e:
 
 print(cur.rowcount,"record inserted!")
 myconn.close()
+
+
